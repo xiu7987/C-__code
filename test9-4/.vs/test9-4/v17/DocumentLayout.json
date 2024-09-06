@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Cplusplus__code\\test9-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB19284-F10C-46E9-BFC6-D71E3D1381B2}|test9-4\\test9-4.vcxproj|C:\\code\\Cplusplus__code\\test9-4\\test9-4\\test9-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EB19284-F10C-46E9-BFC6-D71E3D1381B2}|test9-4\\test9-4.vcxproj|solutionrelative:test9-4\\test9-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB19284-F10C-46E9-BFC6-D71E3D1381B2}|test9-4\\test9-4.vcxproj|C:\\code\\Cplusplus__code\\test9-4\\test9-4\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EB19284-F10C-46E9-BFC6-D71E3D1381B2}|test9-4\\test9-4.vcxproj|solutionrelative:test9-4\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB19284-F10C-46E9-BFC6-D71E3D1381B2}|test9-4\\test9-4.vcxproj|C:\\code\\Cplusplus__code\\test9-4\\test9-4\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EB19284-F10C-46E9-BFC6-D71E3D1381B2}|test9-4\\test9-4.vcxproj|solutionrelative:test9-4\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date.h",
+              "DocumentMoniker": "C:\\code\\Cplusplus__code\\test9-4\\test9-4\\Date.h",
+              "RelativeDocumentMoniker": "test9-4\\Date.h",
+              "ToolTip": "C:\\code\\Cplusplus__code\\test9-4\\test9-4\\Date.h",
+              "RelativeToolTip": "test9-4\\Date.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T11:25:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test9-4.cpp",
+              "DocumentMoniker": "C:\\code\\Cplusplus__code\\test9-4\\test9-4\\test9-4.cpp",
+              "RelativeDocumentMoniker": "test9-4\\test9-4.cpp",
+              "ToolTip": "C:\\code\\Cplusplus__code\\test9-4\\test9-4\\test9-4.cpp",
+              "RelativeToolTip": "test9-4\\test9-4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T13:39:26.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "C:\\code\\Cplusplus__code\\test9-4\\test9-4\\Date.cpp",
+              "RelativeDocumentMoniker": "test9-4\\Date.cpp",
+              "ToolTip": "C:\\code\\Cplusplus__code\\test9-4\\test9-4\\Date.cpp",
+              "RelativeToolTip": "test9-4\\Date.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T11:26:02.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
