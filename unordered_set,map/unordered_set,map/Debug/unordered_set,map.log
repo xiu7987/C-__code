@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\code\Cplusplus__code\unordered_set,map\unordered_set,map\hash_bucket.h(135,21): warning C4018: “<”: 有符号/无符号不匹配
+  unordered_set,map.vcxproj -> C:\code\Cplusplus__code\unordered_set,map\Debug\unordered_set,map.exe
